@@ -1,0 +1,15 @@
+D:\Informatyka\C#\Adrian_Lab03\9_odwracane_liczby\bin\Debug\net7.0\9_odwracane_liczby.exe
+D:\Informatyka\C#\Adrian_Lab03\9_odwracane_liczby\bin\Debug\net7.0\9_odwracane_liczby.deps.json
+D:\Informatyka\C#\Adrian_Lab03\9_odwracane_liczby\bin\Debug\net7.0\9_odwracane_liczby.runtimeconfig.json
+D:\Informatyka\C#\Adrian_Lab03\9_odwracane_liczby\bin\Debug\net7.0\9_odwracane_liczby.dll
+D:\Informatyka\C#\Adrian_Lab03\9_odwracane_liczby\bin\Debug\net7.0\9_odwracane_liczby.pdb
+D:\Informatyka\C#\Adrian_Lab03\9_odwracane_liczby\obj\Debug\net7.0\9_odwracane_liczby.csproj.AssemblyReference.cache
+D:\Informatyka\C#\Adrian_Lab03\9_odwracane_liczby\obj\Debug\net7.0\9_odwracane_liczby.GeneratedMSBuildEditorConfig.editorconfig
+D:\Informatyka\C#\Adrian_Lab03\9_odwracane_liczby\obj\Debug\net7.0\9_odwracane_liczby.AssemblyInfoInputs.cache
+D:\Informatyka\C#\Adrian_Lab03\9_odwracane_liczby\obj\Debug\net7.0\9_odwracane_liczby.AssemblyInfo.cs
+D:\Informatyka\C#\Adrian_Lab03\9_odwracane_liczby\obj\Debug\net7.0\9_odwracane_liczby.csproj.CoreCompileInputs.cache
+D:\Informatyka\C#\Adrian_Lab03\9_odwracane_liczby\obj\Debug\net7.0\9_odwracane_liczby.dll
+D:\Informatyka\C#\Adrian_Lab03\9_odwracane_liczby\obj\Debug\net7.0\refint\9_odwracane_liczby.dll
+D:\Informatyka\C#\Adrian_Lab03\9_odwracane_liczby\obj\Debug\net7.0\9_odwracane_liczby.pdb
+D:\Informatyka\C#\Adrian_Lab03\9_odwracane_liczby\obj\Debug\net7.0\9_odwracane_liczby.genruntimeconfig.cache
+D:\Informatyka\C#\Adrian_Lab03\9_odwracane_liczby\obj\Debug\net7.0\ref\9_odwracane_liczby.dll

@@ -1,0 +1,15 @@
+D:\Informatyka\C#\Adrian_Lab03\1_potegowanie\bin\Debug\net7.0\1_potegowanie.exe
+D:\Informatyka\C#\Adrian_Lab03\1_potegowanie\bin\Debug\net7.0\1_potegowanie.deps.json
+D:\Informatyka\C#\Adrian_Lab03\1_potegowanie\bin\Debug\net7.0\1_potegowanie.runtimeconfig.json
+D:\Informatyka\C#\Adrian_Lab03\1_potegowanie\bin\Debug\net7.0\1_potegowanie.dll
+D:\Informatyka\C#\Adrian_Lab03\1_potegowanie\bin\Debug\net7.0\1_potegowanie.pdb
+D:\Informatyka\C#\Adrian_Lab03\1_potegowanie\obj\Debug\net7.0\1_potegowanie.csproj.AssemblyReference.cache
+D:\Informatyka\C#\Adrian_Lab03\1_potegowanie\obj\Debug\net7.0\1_potegowanie.GeneratedMSBuildEditorConfig.editorconfig
+D:\Informatyka\C#\Adrian_Lab03\1_potegowanie\obj\Debug\net7.0\1_potegowanie.AssemblyInfoInputs.cache
+D:\Informatyka\C#\Adrian_Lab03\1_potegowanie\obj\Debug\net7.0\1_potegowanie.AssemblyInfo.cs
+D:\Informatyka\C#\Adrian_Lab03\1_potegowanie\obj\Debug\net7.0\1_potegowanie.csproj.CoreCompileInputs.cache
+D:\Informatyka\C#\Adrian_Lab03\1_potegowanie\obj\Debug\net7.0\1_potegowanie.dll
+D:\Informatyka\C#\Adrian_Lab03\1_potegowanie\obj\Debug\net7.0\refint\1_potegowanie.dll
+D:\Informatyka\C#\Adrian_Lab03\1_potegowanie\obj\Debug\net7.0\1_potegowanie.pdb
+D:\Informatyka\C#\Adrian_Lab03\1_potegowanie\obj\Debug\net7.0\1_potegowanie.genruntimeconfig.cache
+D:\Informatyka\C#\Adrian_Lab03\1_potegowanie\obj\Debug\net7.0\ref\1_potegowanie.dll

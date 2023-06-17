@@ -1,0 +1,15 @@
+D:\Informatyka\C#\Adrian_Lab03\4_oszczednosci\bin\Debug\net7.0\4_oszczednosci.exe
+D:\Informatyka\C#\Adrian_Lab03\4_oszczednosci\bin\Debug\net7.0\4_oszczednosci.deps.json
+D:\Informatyka\C#\Adrian_Lab03\4_oszczednosci\bin\Debug\net7.0\4_oszczednosci.runtimeconfig.json
+D:\Informatyka\C#\Adrian_Lab03\4_oszczednosci\bin\Debug\net7.0\4_oszczednosci.dll
+D:\Informatyka\C#\Adrian_Lab03\4_oszczednosci\bin\Debug\net7.0\4_oszczednosci.pdb
+D:\Informatyka\C#\Adrian_Lab03\4_oszczednosci\obj\Debug\net7.0\4_oszczednosci.csproj.AssemblyReference.cache
+D:\Informatyka\C#\Adrian_Lab03\4_oszczednosci\obj\Debug\net7.0\4_oszczednosci.GeneratedMSBuildEditorConfig.editorconfig
+D:\Informatyka\C#\Adrian_Lab03\4_oszczednosci\obj\Debug\net7.0\4_oszczednosci.AssemblyInfoInputs.cache
+D:\Informatyka\C#\Adrian_Lab03\4_oszczednosci\obj\Debug\net7.0\4_oszczednosci.AssemblyInfo.cs
+D:\Informatyka\C#\Adrian_Lab03\4_oszczednosci\obj\Debug\net7.0\4_oszczednosci.csproj.CoreCompileInputs.cache
+D:\Informatyka\C#\Adrian_Lab03\4_oszczednosci\obj\Debug\net7.0\4_oszczednosci.dll
+D:\Informatyka\C#\Adrian_Lab03\4_oszczednosci\obj\Debug\net7.0\refint\4_oszczednosci.dll
+D:\Informatyka\C#\Adrian_Lab03\4_oszczednosci\obj\Debug\net7.0\4_oszczednosci.pdb
+D:\Informatyka\C#\Adrian_Lab03\4_oszczednosci\obj\Debug\net7.0\4_oszczednosci.genruntimeconfig.cache
+D:\Informatyka\C#\Adrian_Lab03\4_oszczednosci\obj\Debug\net7.0\ref\4_oszczednosci.dll

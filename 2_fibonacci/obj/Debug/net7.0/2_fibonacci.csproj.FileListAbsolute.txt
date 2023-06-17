@@ -1,0 +1,15 @@
+D:\Informatyka\C#\Adrian_Lab03\2_fibonacci\bin\Debug\net7.0\2_fibonacci.exe
+D:\Informatyka\C#\Adrian_Lab03\2_fibonacci\bin\Debug\net7.0\2_fibonacci.deps.json
+D:\Informatyka\C#\Adrian_Lab03\2_fibonacci\bin\Debug\net7.0\2_fibonacci.runtimeconfig.json
+D:\Informatyka\C#\Adrian_Lab03\2_fibonacci\bin\Debug\net7.0\2_fibonacci.dll
+D:\Informatyka\C#\Adrian_Lab03\2_fibonacci\bin\Debug\net7.0\2_fibonacci.pdb
+D:\Informatyka\C#\Adrian_Lab03\2_fibonacci\obj\Debug\net7.0\2_fibonacci.csproj.AssemblyReference.cache
+D:\Informatyka\C#\Adrian_Lab03\2_fibonacci\obj\Debug\net7.0\2_fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+D:\Informatyka\C#\Adrian_Lab03\2_fibonacci\obj\Debug\net7.0\2_fibonacci.AssemblyInfoInputs.cache
+D:\Informatyka\C#\Adrian_Lab03\2_fibonacci\obj\Debug\net7.0\2_fibonacci.AssemblyInfo.cs
+D:\Informatyka\C#\Adrian_Lab03\2_fibonacci\obj\Debug\net7.0\2_fibonacci.csproj.CoreCompileInputs.cache
+D:\Informatyka\C#\Adrian_Lab03\2_fibonacci\obj\Debug\net7.0\2_fibonacci.dll
+D:\Informatyka\C#\Adrian_Lab03\2_fibonacci\obj\Debug\net7.0\refint\2_fibonacci.dll
+D:\Informatyka\C#\Adrian_Lab03\2_fibonacci\obj\Debug\net7.0\2_fibonacci.pdb
+D:\Informatyka\C#\Adrian_Lab03\2_fibonacci\obj\Debug\net7.0\2_fibonacci.genruntimeconfig.cache
+D:\Informatyka\C#\Adrian_Lab03\2_fibonacci\obj\Debug\net7.0\ref\2_fibonacci.dll

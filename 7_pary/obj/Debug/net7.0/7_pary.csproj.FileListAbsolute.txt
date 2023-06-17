@@ -1,0 +1,15 @@
+D:\Informatyka\C#\Adrian_Lab03\7_pary\bin\Debug\net7.0\7_pary.exe
+D:\Informatyka\C#\Adrian_Lab03\7_pary\bin\Debug\net7.0\7_pary.deps.json
+D:\Informatyka\C#\Adrian_Lab03\7_pary\bin\Debug\net7.0\7_pary.runtimeconfig.json
+D:\Informatyka\C#\Adrian_Lab03\7_pary\bin\Debug\net7.0\7_pary.dll
+D:\Informatyka\C#\Adrian_Lab03\7_pary\bin\Debug\net7.0\7_pary.pdb
+D:\Informatyka\C#\Adrian_Lab03\7_pary\obj\Debug\net7.0\7_pary.csproj.AssemblyReference.cache
+D:\Informatyka\C#\Adrian_Lab03\7_pary\obj\Debug\net7.0\7_pary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Informatyka\C#\Adrian_Lab03\7_pary\obj\Debug\net7.0\7_pary.AssemblyInfoInputs.cache
+D:\Informatyka\C#\Adrian_Lab03\7_pary\obj\Debug\net7.0\7_pary.AssemblyInfo.cs
+D:\Informatyka\C#\Adrian_Lab03\7_pary\obj\Debug\net7.0\7_pary.csproj.CoreCompileInputs.cache
+D:\Informatyka\C#\Adrian_Lab03\7_pary\obj\Debug\net7.0\7_pary.dll
+D:\Informatyka\C#\Adrian_Lab03\7_pary\obj\Debug\net7.0\refint\7_pary.dll
+D:\Informatyka\C#\Adrian_Lab03\7_pary\obj\Debug\net7.0\7_pary.pdb
+D:\Informatyka\C#\Adrian_Lab03\7_pary\obj\Debug\net7.0\7_pary.genruntimeconfig.cache
+D:\Informatyka\C#\Adrian_Lab03\7_pary\obj\Debug\net7.0\ref\7_pary.dll

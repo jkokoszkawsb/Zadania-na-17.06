@@ -1,0 +1,15 @@
+D:\Informatyka\C#\Adrian_Lab03\8_zgadywanie\bin\Debug\net7.0\8_zgadywanie.exe
+D:\Informatyka\C#\Adrian_Lab03\8_zgadywanie\bin\Debug\net7.0\8_zgadywanie.deps.json
+D:\Informatyka\C#\Adrian_Lab03\8_zgadywanie\bin\Debug\net7.0\8_zgadywanie.runtimeconfig.json
+D:\Informatyka\C#\Adrian_Lab03\8_zgadywanie\bin\Debug\net7.0\8_zgadywanie.dll
+D:\Informatyka\C#\Adrian_Lab03\8_zgadywanie\bin\Debug\net7.0\8_zgadywanie.pdb
+D:\Informatyka\C#\Adrian_Lab03\8_zgadywanie\obj\Debug\net7.0\8_zgadywanie.csproj.AssemblyReference.cache
+D:\Informatyka\C#\Adrian_Lab03\8_zgadywanie\obj\Debug\net7.0\8_zgadywanie.GeneratedMSBuildEditorConfig.editorconfig
+D:\Informatyka\C#\Adrian_Lab03\8_zgadywanie\obj\Debug\net7.0\8_zgadywanie.AssemblyInfoInputs.cache
+D:\Informatyka\C#\Adrian_Lab03\8_zgadywanie\obj\Debug\net7.0\8_zgadywanie.AssemblyInfo.cs
+D:\Informatyka\C#\Adrian_Lab03\8_zgadywanie\obj\Debug\net7.0\8_zgadywanie.csproj.CoreCompileInputs.cache
+D:\Informatyka\C#\Adrian_Lab03\8_zgadywanie\obj\Debug\net7.0\8_zgadywanie.dll
+D:\Informatyka\C#\Adrian_Lab03\8_zgadywanie\obj\Debug\net7.0\refint\8_zgadywanie.dll
+D:\Informatyka\C#\Adrian_Lab03\8_zgadywanie\obj\Debug\net7.0\8_zgadywanie.pdb
+D:\Informatyka\C#\Adrian_Lab03\8_zgadywanie\obj\Debug\net7.0\8_zgadywanie.genruntimeconfig.cache
+D:\Informatyka\C#\Adrian_Lab03\8_zgadywanie\obj\Debug\net7.0\ref\8_zgadywanie.dll

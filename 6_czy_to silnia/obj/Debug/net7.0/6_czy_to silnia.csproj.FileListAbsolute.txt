@@ -1,0 +1,15 @@
+D:\Informatyka\C#\Adrian_Lab03\6_czy_to silnia\bin\Debug\net7.0\6_czy_to silnia.exe
+D:\Informatyka\C#\Adrian_Lab03\6_czy_to silnia\bin\Debug\net7.0\6_czy_to silnia.deps.json
+D:\Informatyka\C#\Adrian_Lab03\6_czy_to silnia\bin\Debug\net7.0\6_czy_to silnia.runtimeconfig.json
+D:\Informatyka\C#\Adrian_Lab03\6_czy_to silnia\bin\Debug\net7.0\6_czy_to silnia.dll
+D:\Informatyka\C#\Adrian_Lab03\6_czy_to silnia\bin\Debug\net7.0\6_czy_to silnia.pdb
+D:\Informatyka\C#\Adrian_Lab03\6_czy_to silnia\obj\Debug\net7.0\6_czy_to silnia.csproj.AssemblyReference.cache
+D:\Informatyka\C#\Adrian_Lab03\6_czy_to silnia\obj\Debug\net7.0\6_czy_to silnia.GeneratedMSBuildEditorConfig.editorconfig
+D:\Informatyka\C#\Adrian_Lab03\6_czy_to silnia\obj\Debug\net7.0\6_czy_to silnia.AssemblyInfoInputs.cache
+D:\Informatyka\C#\Adrian_Lab03\6_czy_to silnia\obj\Debug\net7.0\6_czy_to silnia.AssemblyInfo.cs
+D:\Informatyka\C#\Adrian_Lab03\6_czy_to silnia\obj\Debug\net7.0\6_czy_to silnia.csproj.CoreCompileInputs.cache
+D:\Informatyka\C#\Adrian_Lab03\6_czy_to silnia\obj\Debug\net7.0\6_czy_to silnia.dll
+D:\Informatyka\C#\Adrian_Lab03\6_czy_to silnia\obj\Debug\net7.0\refint\6_czy_to silnia.dll
+D:\Informatyka\C#\Adrian_Lab03\6_czy_to silnia\obj\Debug\net7.0\6_czy_to silnia.pdb
+D:\Informatyka\C#\Adrian_Lab03\6_czy_to silnia\obj\Debug\net7.0\6_czy_to silnia.genruntimeconfig.cache
+D:\Informatyka\C#\Adrian_Lab03\6_czy_to silnia\obj\Debug\net7.0\ref\6_czy_to silnia.dll

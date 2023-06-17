@@ -1,0 +1,15 @@
+D:\Informatyka\C#\Adrian_Lab03\10_kolejne_liczby\bin\Debug\net7.0\10_kolejne_liczby.exe
+D:\Informatyka\C#\Adrian_Lab03\10_kolejne_liczby\bin\Debug\net7.0\10_kolejne_liczby.deps.json
+D:\Informatyka\C#\Adrian_Lab03\10_kolejne_liczby\bin\Debug\net7.0\10_kolejne_liczby.runtimeconfig.json
+D:\Informatyka\C#\Adrian_Lab03\10_kolejne_liczby\bin\Debug\net7.0\10_kolejne_liczby.dll
+D:\Informatyka\C#\Adrian_Lab03\10_kolejne_liczby\bin\Debug\net7.0\10_kolejne_liczby.pdb
+D:\Informatyka\C#\Adrian_Lab03\10_kolejne_liczby\obj\Debug\net7.0\10_kolejne_liczby.csproj.AssemblyReference.cache
+D:\Informatyka\C#\Adrian_Lab03\10_kolejne_liczby\obj\Debug\net7.0\10_kolejne_liczby.GeneratedMSBuildEditorConfig.editorconfig
+D:\Informatyka\C#\Adrian_Lab03\10_kolejne_liczby\obj\Debug\net7.0\10_kolejne_liczby.AssemblyInfoInputs.cache
+D:\Informatyka\C#\Adrian_Lab03\10_kolejne_liczby\obj\Debug\net7.0\10_kolejne_liczby.AssemblyInfo.cs
+D:\Informatyka\C#\Adrian_Lab03\10_kolejne_liczby\obj\Debug\net7.0\10_kolejne_liczby.csproj.CoreCompileInputs.cache
+D:\Informatyka\C#\Adrian_Lab03\10_kolejne_liczby\obj\Debug\net7.0\10_kolejne_liczby.dll
+D:\Informatyka\C#\Adrian_Lab03\10_kolejne_liczby\obj\Debug\net7.0\refint\10_kolejne_liczby.dll
+D:\Informatyka\C#\Adrian_Lab03\10_kolejne_liczby\obj\Debug\net7.0\10_kolejne_liczby.pdb
+D:\Informatyka\C#\Adrian_Lab03\10_kolejne_liczby\obj\Debug\net7.0\10_kolejne_liczby.genruntimeconfig.cache
+D:\Informatyka\C#\Adrian_Lab03\10_kolejne_liczby\obj\Debug\net7.0\ref\10_kolejne_liczby.dll

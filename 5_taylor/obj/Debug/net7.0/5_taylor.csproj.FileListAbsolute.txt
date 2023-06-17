@@ -1,0 +1,15 @@
+D:\Informatyka\C#\Adrian_Lab03\5_taylor\obj\Debug\net7.0\5_taylor.csproj.AssemblyReference.cache
+D:\Informatyka\C#\Adrian_Lab03\5_taylor\obj\Debug\net7.0\5_taylor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Informatyka\C#\Adrian_Lab03\5_taylor\obj\Debug\net7.0\5_taylor.AssemblyInfoInputs.cache
+D:\Informatyka\C#\Adrian_Lab03\5_taylor\obj\Debug\net7.0\5_taylor.AssemblyInfo.cs
+D:\Informatyka\C#\Adrian_Lab03\5_taylor\obj\Debug\net7.0\5_taylor.csproj.CoreCompileInputs.cache
+D:\Informatyka\C#\Adrian_Lab03\5_taylor\bin\Debug\net7.0\5_taylor.exe
+D:\Informatyka\C#\Adrian_Lab03\5_taylor\bin\Debug\net7.0\5_taylor.deps.json
+D:\Informatyka\C#\Adrian_Lab03\5_taylor\bin\Debug\net7.0\5_taylor.runtimeconfig.json
+D:\Informatyka\C#\Adrian_Lab03\5_taylor\bin\Debug\net7.0\5_taylor.dll
+D:\Informatyka\C#\Adrian_Lab03\5_taylor\bin\Debug\net7.0\5_taylor.pdb
+D:\Informatyka\C#\Adrian_Lab03\5_taylor\obj\Debug\net7.0\5_taylor.dll
+D:\Informatyka\C#\Adrian_Lab03\5_taylor\obj\Debug\net7.0\refint\5_taylor.dll
+D:\Informatyka\C#\Adrian_Lab03\5_taylor\obj\Debug\net7.0\5_taylor.pdb
+D:\Informatyka\C#\Adrian_Lab03\5_taylor\obj\Debug\net7.0\5_taylor.genruntimeconfig.cache
+D:\Informatyka\C#\Adrian_Lab03\5_taylor\obj\Debug\net7.0\ref\5_taylor.dll
